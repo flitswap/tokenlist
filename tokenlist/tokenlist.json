@@ -1,0 +1,28 @@
+{
+    "name": "FlitSwap Tokens",
+    "logoURI": "https://raw.githubusercontent.com/FlitSwap/tokenlist/main/token/FLIT.png",
+    "keywords": [
+        "OPBNB",
+        "Binance",
+        "bsc",
+        "defi"
+    ],
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 204,
+            "address": "0x4200000000000000000000000000000000000006",
+            "decimals": 18,
+            "name": "Wrapped BNB",
+            "symbol": "WBNB",
+            "logoURI": "https://raw.githubusercontent.com/FlitSwap/tokenlist/main/token/addresses/0x4200000000000000000000000000000000000006/logo.png"
+        }
+
+
+    ],
+    "timestamp": "2023-08-10T16:00:00+00:00"
+}
